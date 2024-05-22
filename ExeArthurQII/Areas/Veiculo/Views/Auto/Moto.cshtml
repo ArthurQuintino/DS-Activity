@@ -1,0 +1,18 @@
+﻿@model ExeArthurQII.Models.motos
+@{
+    ViewData["Title"] = "Motos";
+    Layout = "_Layout";
+}
+
+<h1>Motos</h1>
+
+<div class="col-md-5 ">
+    <figure class="card card-product">
+        <div class="img-wrap"><img src="~/img/honda.jpg" width="100%" /></div>
+        <figcaption class="info-wrap" style=" padding: 20px; background-color: dimgrey">
+            <h4 class="title"><i class="fa fa-motorcycle" aria-hidden="true"></i><b>Marca: </b> @Model.fabricante</h4>
+            <p class="desc">@Model.nome<br /> @Model.cilindradas<br /> @Model.categoria<br /> @Model.Partida</p>
+        </figcaption>
+    </figure>
+</div>
+

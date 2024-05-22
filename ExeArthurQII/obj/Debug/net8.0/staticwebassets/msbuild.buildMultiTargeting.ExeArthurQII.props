@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ExeArthurQII.props" />
+</Project>

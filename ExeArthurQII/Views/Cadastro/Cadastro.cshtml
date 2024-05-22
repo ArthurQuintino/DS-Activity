@@ -1,0 +1,29 @@
+﻿@model ExeArthurQII.Models.Cadastro
+@{
+    ViewData["Title"] = "Cadastro";
+}
+
+<h1>Cadastrar</h1>
+<h2>Funcionario</h2>
+
+<form action="ConsultarPessoa" method="get">
+
+    <div>
+        <label for="PessoaId">Codigo:</label>
+    </div>
+    <div>
+        <input type="number" value="@Model.CodigoFuncionario" name="Id" />
+    </div>
+    <br />
+    <div>
+        <label for="PessoaNome">Nome:</label>
+        <input type="text" value="@Model.NomeFuncionario" name="Nome" />
+    </div>
+    <div>
+        <label for="PessoaSexo">Função:</label>
+        <input type="text" value="@Model.funcaofuncionario" name="Sexo" />
+    </div>
+
+    <button action = "ConsultarPessoa">Cadastrar</button>
+
+</form>
