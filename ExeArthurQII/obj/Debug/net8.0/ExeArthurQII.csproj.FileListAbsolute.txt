@@ -223,3 +223,4 @@ C:\Users\sacol\Desktop\atividade_ds\ExeArthurQII\ExeArthurQII\bin\Debug\net8.0\r
 C:\Users\sacol\Desktop\atividade_ds\ExeArthurQII\ExeArthurQII\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\sacol\Desktop\atividade_ds\ExeArthurQII\ExeArthurQII\obj\Debug\net8.0\ExeArthurQII.csproj.AssemblyReference.cache
 C:\Users\sacol\Desktop\atividade_ds\ExeArthurQII\ExeArthurQII\obj\Debug\net8.0\ExeArthu.F82E0AE9.Up2Date
+C:\Users\sacol\Desktop\atividade_ds\ExeArthurQII\ExeArthurQII\obj\Debug\net8.0\ExeArthurQII.sourcelink.json

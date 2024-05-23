@@ -14,7 +14,7 @@ namespace ExeArthurQII.Controllers
                   NomeFuncionario = " ",
                   funcaofuncionario = " "
             };
-            return RedirectToAction("ConsultarPessoa");
+            return View();
         }
         public IActionResult ConsultarPessoa() {
             Cadastro exibir = new Cadastro();

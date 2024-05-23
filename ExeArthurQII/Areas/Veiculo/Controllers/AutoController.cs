@@ -31,6 +31,7 @@ namespace ExeArthurQII.Areas.Veiculo.Controllers
             carros.nome = "Modelo: Chevette";
             carros.categoria = "Categoria: Compacto";
             carros.Marcha = "Partida: Pedal e Eletrica";
+            carros.Tipo = "Tipo: sedã";
             
             return View(carros);
         

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExeArthurQII")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2a28ca0480f7b336cd6876a45bb894a46409cdd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExeArthurQII")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExeArthurQII")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,10 +1,10 @@
 ﻿namespace ExeArthurQII.Models
 {
-    public class carro
+    public class carro : VeiculoController
     {
-        public string fabricante { get; set; }
-        public string nome { get; set; }    
-        public string categoria { get; set; }
+
         public string Marcha { get; set; }
+
+        public string Tipo { get; set; }
     }
 }

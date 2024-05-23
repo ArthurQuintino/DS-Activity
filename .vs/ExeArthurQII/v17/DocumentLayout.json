@@ -3,84 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\controllers\\cadastrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\controllers\\cadastrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\views\\cadastro\\consultarpessoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\views\\cadastro\\consultarpessoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\views\\cadastro\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\views\\cadastro\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\models\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\models\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\views\\cadastro\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\views\\cadastro\\cadastro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\models\\motos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\models\\motos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\areas\\veiculo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\areas\\veiculo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\areas\\veiculo\\views\\auto\\carros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\areas\\veiculo\\views\\auto\\carros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\areas\\veiculo\\views\\auto\\moto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\areas\\veiculo\\views\\auto\\moto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\areas\\veiculo\\controllers\\autocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\areas\\veiculo\\controllers\\autocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\areas\\veiculo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\areas\\veiculo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\controllers\\cadastrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\controllers\\cadastrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\areas\\veiculo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\areas\\veiculo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\views\\funcionario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\views\\funcionario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\exearthurqii.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\exearthurqii.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|c:\\users\\sacol\\desktop\\atividade_ds\\exearthurqii\\exearthurqii\\areas\\veiculo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B33949F4-C6E8-440F-B595-1E6AABDF8976}|ExeArthurQII\\ExeArthurQII.csproj|solutionrelative:exearthurqii\\areas\\veiculo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -95,40 +39,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FuncionarioController.cs",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Controllers\\FuncionarioController.cs",
-              "RelativeDocumentMoniker": "ExeArthurQII\\Controllers\\FuncionarioController.cs",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Controllers\\FuncionarioController.cs",
-              "RelativeToolTip": "ExeArthurQII\\Controllers\\FuncionarioController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Models\\Cadastro.cs",
+              "RelativeDocumentMoniker": "ExeArthurQII\\Models\\Cadastro.cs",
+              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Models\\Cadastro.cs",
+              "RelativeToolTip": "ExeArthurQII\\Models\\Cadastro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T20:39:35.405Z",
+              "WhenOpened": "2024-05-23T02:01:13.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ExeArthurQII\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ExeArthurQII\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T20:55:23.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Cadastro.cshtml",
               "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Views\\Cadastro\\Cadastro.cshtml",
               "RelativeDocumentMoniker": "ExeArthurQII\\Views\\Cadastro\\Cadastro.cshtml",
               "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Views\\Cadastro\\Cadastro.cshtml",
               "RelativeToolTip": "ExeArthurQII\\Views\\Cadastro\\Cadastro.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T23:20:28.449Z",
+              "WhenOpened": "2024-05-23T01:18:51.2Z",
               "EditorCaption": ""
             },
             {
@@ -139,214 +70,47 @@
               "RelativeDocumentMoniker": "ExeArthurQII\\Controllers\\CadastroController.cs",
               "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Controllers\\CadastroController.cs",
               "RelativeToolTip": "ExeArthurQII\\Controllers\\CadastroController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAtAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T23:19:58.24Z",
+              "WhenOpened": "2024-05-23T01:13:40.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ConsultarPessoa.cshtml",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Views\\Cadastro\\ConsultarPessoa.cshtml",
-              "RelativeDocumentMoniker": "ExeArthurQII\\Views\\Cadastro\\ConsultarPessoa.cshtml",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Views\\Cadastro\\ConsultarPessoa.cshtml",
-              "RelativeToolTip": "ExeArthurQII\\Views\\Cadastro\\ConsultarPessoa.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T00:31:53.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cadastro.cs",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Models\\Cadastro.cs",
-              "RelativeDocumentMoniker": "ExeArthurQII\\Models\\Cadastro.cs",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Models\\Cadastro.cs",
-              "RelativeToolTip": "ExeArthurQII\\Models\\Cadastro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T23:17:25.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AutoController.cs",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Areas\\Veiculo\\Controllers\\AutoController.cs",
-              "RelativeDocumentMoniker": "ExeArthurQII\\Areas\\Veiculo\\Controllers\\AutoController.cs",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Areas\\Veiculo\\Controllers\\AutoController.cs",
-              "RelativeToolTip": "ExeArthurQII\\Areas\\Veiculo\\Controllers\\AutoController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T21:16:29.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Areas\\Veiculo\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ExeArthurQII\\Areas\\Veiculo\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Areas\\Veiculo\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ExeArthurQII\\Areas\\Veiculo\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAACkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T21:14:40.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "motos.cs",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Models\\motos.cs",
-              "RelativeDocumentMoniker": "ExeArthurQII\\Models\\motos.cs",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Models\\motos.cs",
-              "RelativeToolTip": "ExeArthurQII\\Models\\motos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T20:50:04.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Carros.cshtml",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Areas\\Veiculo\\Views\\Auto\\Carros.cshtml",
-              "RelativeDocumentMoniker": "ExeArthurQII\\Areas\\Veiculo\\Views\\Auto\\Carros.cshtml",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Areas\\Veiculo\\Views\\Auto\\Carros.cshtml",
-              "RelativeToolTip": "ExeArthurQII\\Areas\\Veiculo\\Views\\Auto\\Carros.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T21:08:00.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Areas\\Veiculo\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ExeArthurQII\\Areas\\Veiculo\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Areas\\Veiculo\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ExeArthurQII\\Areas\\Veiculo\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAcwA0AAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T21:13:17.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "ExeArthurQII\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "ExeArthurQII\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-21T21:51:05.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "ExeArthurQII\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "ExeArthurQII\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-21T21:39:23.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Moto.cshtml",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Areas\\Veiculo\\Views\\Auto\\Moto.cshtml",
-              "RelativeDocumentMoniker": "ExeArthurQII\\Areas\\Veiculo\\Views\\Auto\\Moto.cshtml",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Areas\\Veiculo\\Views\\Auto\\Moto.cshtml",
-              "RelativeToolTip": "ExeArthurQII\\Areas\\Veiculo\\Views\\Auto\\Moto.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T19:41:21.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ExeArthurQII\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ExeArthurQII\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADAAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T20:35:00.853Z",
+              "WhenOpened": "2024-05-23T01:08:31.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Program.cs",
-              "RelativeDocumentMoniker": "ExeArthurQII\\Program.cs",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Program.cs",
-              "RelativeToolTip": "ExeArthurQII\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAhAAAA",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Areas\\Veiculo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExeArthurQII\\Areas\\Veiculo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Areas\\Veiculo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExeArthurQII\\Areas\\Veiculo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T21:08:29.839Z"
+              "WhenOpened": "2024-05-22T23:31:26.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Views\\Funcionario\\Index.cshtml",
-              "RelativeDocumentMoniker": "ExeArthurQII\\Views\\Funcionario\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Views\\Funcionario\\Index.cshtml",
-              "RelativeToolTip": "ExeArthurQII\\Views\\Funcionario\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Areas\\Veiculo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExeArthurQII\\Areas\\Veiculo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Areas\\Veiculo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExeArthurQII\\Areas\\Veiculo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T20:45:43.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ExeArthurQII\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ExeArthurQII\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-19T21:08:22.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ExeArthurQII\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ExeArthurQII\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T20:31:40.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ExeArthurQII.csproj",
-              "DocumentMoniker": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\ExeArthurQII.csproj",
-              "RelativeDocumentMoniker": "ExeArthurQII\\ExeArthurQII.csproj",
-              "ToolTip": "C:\\Users\\sacol\\Desktop\\atividade_ds\\ExeArthurQII\\ExeArthurQII\\ExeArthurQII.csproj",
-              "RelativeToolTip": "ExeArthurQII\\ExeArthurQII.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-19T21:07:23.917Z"
+              "WhenOpened": "2024-05-22T23:30:17.584Z"
             }
           ]
         }
